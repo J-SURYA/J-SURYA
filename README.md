@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning programming languages
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me 
+- 📫 How to reach me https://github.com/J-SURYA/J-SURYA .
 
 <!---
 J-SURYA/J-SURYA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
