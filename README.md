@@ -1,7 +1,7 @@
 - 👋 Hi, I’m SURYA J
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently Full-Stack Web Development
-- 💞️ I’m looking to work more on projects
+- 🌱 I’m currently learning Full-Stack Web Development
+- 💞️ I’m looking to work more projects on Web Development
 - 📫 How to reach me https://linkedin.com/in/jl-surya
 
 <!---
