@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently Full-Stack Web Development
 - 💞️ I’m looking to work more on projects
-- 📫 How to reach me https://linkedin.com/jl-surya
+- 📫 How to reach me https://linkedin.com/in/jl-surya
 
 <!---
 J-SURYA/J-SURYA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
