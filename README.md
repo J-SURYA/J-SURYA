@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Flutter, react etc.**
 
-- 📫 How to reach me **suryajlatha52@gmail.com**
+- 📫 How to reach me **jlsurya531@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10426aReudxj2GFpGmjaxZIZ2khJY2CU5/view](https://drive.google.com/file/d/10426aReudxj2GFpGmjaxZIZ2khJY2CU5/view)
 
