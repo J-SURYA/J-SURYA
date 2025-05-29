@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm SURYA J</h1>
-<h3 align="center">Pre-Final year at Chennai Institute of Technology | Software Developer | Problem Solver | Competitive Programmer | Web Developer | Tech Enthusiast</h3>
+<h3 align="center">Final year at Chennai Institute of Technology | Software Developer | Problem Solver | Competitive Programmer | Web Developer | Tech Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j-surya&label=Profile%20views&color=0e75b6&style=flat" alt="j-surya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=j-surya" alt="j-surya" /></a> </p>
 
-- 🔭 I’m currently working on [Student Diary](https://github.com/J-SURYA/Student_diary)
+- 🔭 I’m currently working on [Energy Tariff System](https://github.com/J-SURYA/Energy_tariff_bluetooth)
 
 - 🌱 I’m currently learning **Android development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/J-SURYA](https://github.com/J-SURYA)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/J-SURYA)
 
 - 💬 Ask me about **Flutter, react etc.**
 
 - 📫 How to reach me **jlsurya531@gmail.com**
+
+- 🌐 Check out my portfolio [SURYA J - PORTFOLIO](https://j-surya.vercel.app)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10426aReudxj2GFpGmjaxZIZ2khJY2CU5/view](https://drive.google.com/file/d/10426aReudxj2GFpGmjaxZIZ2khJY2CU5/view)
 
