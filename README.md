@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **Android development**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/J-SURYA)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/J-SURYA?tab=repositories)
 
 - 💬 Ask me about **Flutter, react etc.**
 
 - 📫 How to reach me **jlsurya531@gmail.com**
 
-- 🌐 Check out my portfolio [SURYA J - PORTFOLIO](https://j-surya.vercel.app)
+- 🌐 Check out my portfolio [SURYA J - PORTFOLIO](https://suryajportfolio.vercel.app)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10426aReudxj2GFpGmjaxZIZ2khJY2CU5/view](https://drive.google.com/file/d/10426aReudxj2GFpGmjaxZIZ2khJY2CU5/view)
+- 📄 Know about my experiences [SURYA J - RESUME](https://drive.google.com/file/d/1v0Ns0rIVyINp0Q0S9T-MRVPYNeCDoNBU/view?usp=drive_link)
 
 - ⚡ Fun fact **My sleep schedule is inversely proportional to the difficulty of my next assignment.**
 
