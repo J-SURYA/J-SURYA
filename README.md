@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Surya J</h1>
 
 <h3 align="center">
-Backend Developer • Full-Stack Developer • Competitive Programmer
+Software Developer • Backend Developer • Competitive Programmer
 </h3>
 
 <p align="center">
-Final-year Computer Science student passionate about building scalable backend systems, AI-powered applications, and high-performance APIs.
+Computer Science Engineering graduate passionate about building scalable backend systems, AI-powered applications, and high-performance APIs.
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ Final-year Computer Science student passionate about building scalable backend s
 
 ## 🚀 About Me
 
-- 🎓 Final-year B.E. Computer Science student at **Chennai Institute of Technology**
+- 🎓 B.E. Computer Science graduate from **Chennai Institute of Technology**
 - 💻 Backend-focused developer experienced in **FastAPI, Node.js, Java Servlets, PostgreSQL, Redis, and scalable API systems**
 - 🤖 Interested in **AI systems, RAG pipelines, LangGraph workflows, and distributed backend architectures**
 - ⚡ Competitive Programmer with:
