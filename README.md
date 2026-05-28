@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Surya J</h1>
+<h1 align="center">Hi 👋, I'm SURYA J</h1>
 
 <h3 align="center">
-Software Developer • Backend Developer • Competitive Programmer
+Software Engineer • Full-Stack Developer • Competitive Programmer
 </h3>
 
 <p align="center">
